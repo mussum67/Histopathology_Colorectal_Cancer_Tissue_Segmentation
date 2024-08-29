@@ -38,4 +38,5 @@ The project is divided into three main approaches:
 
 ## Dataset
 
-- [Link to the dataset]
+- [Link to the dataset](https://drive.google.com/drive/folders/1UB86gL0XwiShc8n2ONwA_YshQ2xQDPXV?usp=drive_link)
+
